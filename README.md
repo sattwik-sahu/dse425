@@ -38,3 +38,7 @@
   uv sync
   uv
   ```
+
+### Convolutional Occupancy Networks
+
+Please refer to this [Docker image](https://hub.docker.com/r/omgovind/robotic_perception)
